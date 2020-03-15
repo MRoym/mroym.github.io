@@ -15,6 +15,12 @@ a {
 	left: 20%;
 }
 
+@media (min-width: 436px) {
+	.desktop {
+		left: 5%;
+	}
+}
+
 .card {
 	width: 400px;
 	height: 190px;
