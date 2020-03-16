@@ -21,7 +21,7 @@ a {
 	align-items: center;
 }
 
-@media (max-width: 747px) {
+@media (max-width: 787px) {
 	.desktop {
 		display: none;
 	}
@@ -145,7 +145,7 @@ a {
 .cards {
 	position: relative;
 	width: 100%;
-	height: 100vh;
+	height: 90vh;
 }
 
 .mobile-card {
